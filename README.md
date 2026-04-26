@@ -5,8 +5,8 @@ Student | Learning Software Development & Cloud Computing
 ### 🎓 Academic Projects
 Ini adalah tempat saya mendokumentasikan hasil belajar dan tugas-tugas kuliah saya:
 
-- **[Pemrograman-1](https://github.com/rytaa/Pemrograman-1)**: Implementasi logika dasar menggunakan Java (Tugas Praktikum).
-- **[Cloud-Computing](https://github.com/rytaa/Cloud-Computing)**: Eksplorasi infrastruktur dan layanan cloud (Tugas Kuliah).
+- **[Pemrograman-1](https://github.com/rytaa/Pemrograman-1)**: Implementasi logika dasar menggunakan Java.
+- **[Cloud-Computing](https://github.com/rytaa/Cloud-Computing)**: Eksplorasi infrastruktur dan layanan cloud.
 - **[Bookshelf.App](https://github.com/rytaa/Bookshelf.App)**: Project manajemen data buku sederhana menggunakan JavaScript.
 
 ### 🛠️ Tech Stack
@@ -18,7 +18,7 @@ Ini adalah tempat saya mendokumentasikan hasil belajar dan tugas-tugas kuliah sa
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/assets/run_fox.gif" width="100">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" width="100" />
   <br>
   <b>Ayo Ngambis! 🦊🔥</b>
   <br><br>
