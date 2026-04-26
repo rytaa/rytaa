@@ -16,8 +16,9 @@ Ini adalah tempat saya mendokumentasikan hasil belajar dan tugas-tugas kuliah sa
 ![Dita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rytaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RyanScherbarth/RyanScherbarth/main/bongo-cat.gif" width="200">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/S604D5L6GX69y/giphy.gif" width="100">
   <br>
+  <b>Meow! Keep Coding! 🐾</b>
+  <br><br>
   <i>"Turning assignments into achievements, one commit at a time."</i>
 </p>
-
