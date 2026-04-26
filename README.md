@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Dita Adelia Putri! 👋
 
-<!--
-**rytaa/rytaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student | Learning Software Development & Cloud Computing
 
-Here are some ideas to get you started:
+### 🎓 Academic Projects
+Ini adalah tempat saya mendokumentasikan hasil belajar dan tugas-tugas kuliah saya:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Pemrograman-1](https://github.com/rytaa/Pemrograman-1)**: Implementasi logika dasar menggunakan Java (Tugas Praktikum).
+- **[Cloud-Computing](https://github.com/rytaa/Cloud-Computing)**: Eksplorasi infrastruktur dan layanan cloud (Tugas Kuliah).
+- **[Bookshelf.App](https://github.com/rytaa/Bookshelf.App)**: Project manajemen data buku sederhana menggunakan JavaScript.
+
+### 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+---
+*“Turning assignments into achievements, one commit at a time.”*
