@@ -21,4 +21,3 @@ Ini adalah tempat saya mendokumentasikan hasil belajar dan tugas-tugas kuliah sa
   <i>"Turning assignments into achievements, one commit at a time."</i>
 </p>
 
-*"Turning assignments into achievements, one commit at a time."*
