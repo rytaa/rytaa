@@ -15,7 +15,10 @@ Ini adalah tempat saya mendokumentasikan hasil belajar dan tugas-tugas kuliah sa
 ### 📊 GitHub Stats
 ![Dita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rytaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
----
-![Nyan Cat Run](https://raw.githubusercontent.com/Luffy-sama-13/Luffy-sama-13/main/Assets/Nyan_Cat.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RyanScherbarth/RyanScherbarth/main/bongo-cat.gif" width="200">
+  <br>
+  <i>"Turning assignments into achievements, one commit at a time."</i>
+</p>
 
 *"Turning assignments into achievements, one commit at a time."*
