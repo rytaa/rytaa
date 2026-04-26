@@ -18,7 +18,7 @@ Ini adalah tempat saya mendokumentasikan hasil belajar dan tugas-tugas kuliah sa
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Luffy-sama-13/Luffy-sama-13/main/Assets/fox_walk.gif" width="150">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/assets/run_fox.gif" width="100">
   <br>
   <b>Ayo Ngambis! 🦊🔥</b>
   <br><br>
