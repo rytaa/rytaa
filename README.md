@@ -12,5 +12,10 @@ Ini adalah tempat saya mendokumentasikan hasil belajar dan tugas-tugas kuliah sa
 ### 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
+### 📊 GitHub Stats
+![Dita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rytaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
 ---
-*“Turning assignments into achievements, one commit at a time.”*
+![Kucing Lari](https://raw.githubusercontent.com/Abhishek-kumar09/Abhishek-kumar09/master/assets/cat_walk.gif)
+
+*"Turning assignments into achievements, one commit at a time."*
