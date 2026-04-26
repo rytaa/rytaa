@@ -16,6 +16,6 @@ Ini adalah tempat saya mendokumentasikan hasil belajar dan tugas-tugas kuliah sa
 ![Dita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rytaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
-![Kucing Lari](https://raw.githubusercontent.com/Abhishek-kumar09/Abhishek-kumar09/master/assets/cat_walk.gif)
+![Kucing Lari di Dark Mode](https://raw.githubusercontent.com/Luffy-sama-13/Luffy-sama-13/main/Assets/Nyan_Cat.gif)
 
 *"Turning assignments into achievements, one commit at a time."*
